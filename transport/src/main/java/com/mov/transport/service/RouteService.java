@@ -1,4 +1,4 @@
-package com.mov.transport;
+package com.mov.transport.service;
 
 import org.springframework.stereotype.Service;
 import java.util.Random;
@@ -13,7 +13,7 @@ public class RouteService {
 
         StringBuilder code = new StringBuilder("BUS-");
 
-        for(int i = 0; i < 4; i++) {
+        for (int i = 0; i < 4; i++) {
             code.append(chars.charAt(random.nextInt(chars.length())));
         }
 
