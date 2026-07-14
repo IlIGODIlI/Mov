@@ -1,6 +1,5 @@
-# Bus Transport Management System 🚍
+# Bus Transport Management System 
 
-[![Java Build & Test](https://github.com/example/transport/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/example/transport/actions/workflows/build-and-test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.11-brightgreen)](https://spring.io/projects/spring-boot)
 
