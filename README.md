@@ -8,7 +8,7 @@ A modern, secure, and robust bus fleet tracking and management system designed f
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 * **Real-time Map Visualizations**: Interactive tracking using Leaflet and stylized map layers.
 * **Role-Based Portals**:
@@ -20,7 +20,7 @@ A modern, secure, and robust bus fleet tracking and management system designed f
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 The project has been modernized and restructured into clean directories:
 
@@ -66,7 +66,7 @@ Project_Mov_jav/
 
 ---
 
-## 🚀 Quick Start (Under 10 Minutes)
+##  Quick Start (Under 10 Minutes)
 
 Getting up and running is straightforward. Here are the simplified steps:
 
@@ -98,19 +98,19 @@ Navigate to [http://localhost:8080/login.html](http://localhost:8080/login.html)
 
 ---
 
-## 📚 Documentation Index
+##  Documentation Index
 
 For details on specific parts of the project, please consult our dedicated guides:
-* 🗺️ **[System Architecture](file:///C:/Users/aryan/Project_Mov_jav/docs/ARCHITECTURE.md)**: Diagrams showing request flows, component design, and sub-package structures.
-* 📦 **[Installation Details](file:///C:/Users/aryan/Project_Mov_jav/docs/INSTALLATION.md)**: Database schemas, environment dependencies, and step-by-step setup guides.
-* 🔌 **[API Documentation](file:///C:/Users/aryan/Project_Mov_jav/docs/API.md)**: Comprehensive guide to public, student, driver, and admin HTTP endpoints.
-* 🔧 **[Configuration Reference](file:///C:/Users/aryan/Project_Mov_jav/docs/CONFIGURATION.md)**: Details on all `application.properties` settings and environment variable bindings.
-* 🔒 **[Security Policy](file:///C:/Users/aryan/Project_Mov_jav/docs/SECURITY.md)**: Information about JWT generation, Spring Security filters, and security practices.
-* 🎯 **[Development Roadmap](file:///C:/Users/aryan/Project_Mov_jav/docs/ROADMAP.md)**: Future milestones, including WebSockets, geofencing, and container configurations.
+*  **[System Architecture](file:///C:/Users/aryan/Project_Mov_jav/docs/ARCHITECTURE.md)**: Diagrams showing request flows, component design, and sub-package structures.
+*  **[Installation Details](file:///C:/Users/aryan/Project_Mov_jav/docs/INSTALLATION.md)**: Database schemas, environment dependencies, and step-by-step setup guides.
+*  **[API Documentation](file:///C:/Users/aryan/Project_Mov_jav/docs/API.md)**: Comprehensive guide to public, student, driver, and admin HTTP endpoints.
+*  **[Configuration Reference](file:///C:/Users/aryan/Project_Mov_jav/docs/CONFIGURATION.md)**: Details on all `application.properties` settings and environment variable bindings.
+*  **[Security Policy](file:///C:/Users/aryan/Project_Mov_jav/docs/SECURITY.md)**: Information about JWT generation, Spring Security filters, and security practices.
+*  **[Development Roadmap](file:///C:/Users/aryan/Project_Mov_jav/docs/ROADMAP.md)**: Future milestones, including WebSockets, geofencing, and container configurations.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Backend Framework**: Spring Boot 3.5.11 (Java 17)
 - **Security**: Spring Security & JSON Web Tokens (JJWT)
@@ -122,12 +122,12 @@ For details on specific parts of the project, please consult our dedicated guide
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please read our **[Contributing Guidelines](file:///C:/Users/aryan/Project_Mov_jav/CONTRIBUTING.md)** and standard **[Code of Conduct](file:///C:/Users/aryan/Project_Mov_jav/CODE_OF_CONDUCT.md)** before submitting a pull request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the **[LICENSE](file:///C:/Users/aryan/Project_Mov_jav/LICENSE)** file for details.
